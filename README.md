@@ -4,4 +4,4 @@ Welcome to the Deep Learning Course Implementations repository! This repository 
 
 ## Table of Contents
 - [Multilayer Perceptron](https://github.com/arzzhub/DL2024/blob/main/mlp.ipynb)
-- [EfficientNet](https://github.com/arzzhub/DL2024/blob/main/mlp.ipynb)
+- [EfficientNet](https://github.com/arzzhub/DL2024/blob/main/mlp.ipynb) [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
